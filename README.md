@@ -1,10 +1,11 @@
-答案仅存于道
-============
-世间万物，无不寻道，比比苍生，皆在其内。
----------------------------------------
+# 答案仅存于道
+
+#### 世间万物，无不寻道，比比苍生，皆在其内。
 
 
-http://douban.com/dofy/
+* [douban](http://www.douban.com/people/Dofy/)
+* [twitter](https://twitter.com/dofy)
+* [weibo](http://weibo.com/dofy)
 
 
 ***
