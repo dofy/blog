@@ -1,11 +1,16 @@
 # 答案仅存于道
+##### 世间万物，无不循道，比比苍生，皆在其内。
 
-#### 世间万物，无不寻道，比比苍生，皆在其内。
-
-
+#### My Links
 * [douban](http://www.douban.com/people/Dofy/)
 * [twitter](https://twitter.com/dofy)
 * [weibo](http://weibo.com/dofy)
+
+
+
+
+
+
 
 
 ***
